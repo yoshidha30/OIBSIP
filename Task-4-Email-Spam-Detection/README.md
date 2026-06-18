@@ -151,6 +151,6 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-M Yoshitha 
+M Yoshidha
 
 This project was developed as part of my Data Science learning journey and Oasis Infobyte Internship to strengthen my understanding of Machine Learning and Natural Language Processing through a real-world spam detection application.
